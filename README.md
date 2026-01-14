@@ -1,5 +1,3 @@
----
-
 # Hand Gesture Controlled Virtual Board
 
 ## Introduction
@@ -82,5 +80,3 @@ streamlit run home_page.py
 * Virtual whiteboards and collaborative tools
 
 ---
-
-Just tell me 👍
